@@ -16,7 +16,7 @@
 
 ###
 
-<img align="right" height="600" src="https://lh3.googleusercontent.com/d/15hh3YU6NhAB-vI85RT6oKl737hOyS0B7=w1000?authuser=1/view"  />
+<img align="right" height="400" src="https://lh3.googleusercontent.com/d/15hh3YU6NhAB-vI85RT6oKl737hOyS0B7=w1000?authuser=1/view"  />
 
 ###
 
