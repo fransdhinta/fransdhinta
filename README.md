@@ -1,8 +1,6 @@
-<h2 align="left">Hello, I'm Fransdhinta D. Prianggoro👋</h2>
+<h2 align="left">Hello, I'm Fransdhinta D. Prianggoro🛰️</h2>
 
 ###
-
-<br clear="both">
 
 <div align="left">
   <a href="dhintaF@gmail.com" target="_blank">
@@ -18,15 +16,46 @@
 
 ###
 
-<img align="right" height="400" src="https://lh3.googleusercontent.com/d/15hh3YU6NhAB-vI85RT6oKl737hOyS0B7=w1000?authuser=1/view"  />
+<img align="right" height="600" src="https://lh3.googleusercontent.com/d/15hh3YU6NhAB-vI85RT6oKl737hOyS0B7=w1000?authuser=1/view"  />
 
 ###
 
-<p align="left">I'm a Software Engineer from Indonesia. Currently building something great...<br><br>- 📚 Learning anything<br>- 🎮 Gaming Enthusiast</p>
+I'm a **Software Engineer** from Indonesia. Currently building something great...✈️
+- 📚 Learning anything
+- 🎮 Gaming Enthusiast
+
+###
+![LeetCode Stats](https://leetcard.jacoblin.cool/fransdhinta?theme=unicorn&font=Alef)
+<div align="left">
+  <a href="https://www.hackerrank.com/certificates/iframe/8361d047e252" target="_blank">
+    <img src="https://lh3.googleusercontent.com/d/1vkZ2E4jC_goWx1wOsW_OyhXvNeBi4OEM=w1000?authuser=1/view" height="40" alt="javascript logo"  />
+  </a>
+  <img width="15" />
+
+  <a href="https://www.hackerrank.com/certificates/iframe/c6fc6ae344da" target="_blank">
+    <img src="https://lh3.googleusercontent.com/d/1tuw5Hlinz5TyVOtIDsvJD70DdbGqKlRQ=w1000?authuser=1/view" height="40" alt="javascript logo"  />
+  </a>
+  <img width="15" />
+  
+  <a href="https://www.hackerrank.com/certificates/iframe/1374baf33f89" target="_blank">
+    <img src="https://lh3.googleusercontent.com/d/1qoOBUWVqo4iZi2ivigJahQq4gNK-9v0i=w1000?authuser=1/view" height="40" alt="javascript logo"  />
+  </a>
+  <img width="15" />
+  
+  <a href="https://www.hackerrank.com/certificates/iframe/0549db99dae2" target="_blank">
+    <img src="https://lh3.googleusercontent.com/d/1V2S_Xp0ICnQvVF1JKbw2kFfO6H_7c0IE=w1000?authuser=1/view" height="40" alt="javascript logo"  />
+  </a>
+  <img width="15" />
+  
+  <a href="https://www.hackerrank.com/certificates/iframe/043e63da249d" target="_blank">
+    <img src="https://lh3.googleusercontent.com/d/1LpqKzr-d8Msviq05BtkaflthYlOv3wsN=w1000?authuser=1/view" height="40" alt="javascript logo"  />
+  </a>
+  <img width="15" />
+</div>
 
 ###
 
-<h5 align="left">🚀 Programming Language and Framework</h5>
+🚀 **Programming Language and Framework**
 
 ###
 
@@ -52,7 +81,7 @@
 
 ###
 
-<h5 align="left">🛠 Tools</h5>
+🛠 **Tools**
 
 ###
 
