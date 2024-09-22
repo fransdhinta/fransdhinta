@@ -21,7 +21,7 @@
 ###
 
 I'm a **Software Engineer** from Indonesia. Currently building something great...✈️
-- 📚 Learning anything
+- 📚 Learning Anything
 - 🎮 Gaming Enthusiast
 
 ###
