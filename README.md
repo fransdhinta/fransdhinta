@@ -57,7 +57,7 @@ I'm a **Software Engineer** from Indonesia. Currently building something great..
 
 ###
 
-<a href="#">
+<a href="https://github-contributions-widget.oxwazz.com/fransdhinta">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-contributions-widget.oxwazz.com/fransdhinta?refresh-cache=1733656152275">
     <source media="(prefers-color-scheme: light)" srcset="https://github-contributions-widget.oxwazz.com/fransdhinta?refresh-cache=1733656152275">
