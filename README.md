@@ -59,9 +59,9 @@ I'm a **Software Engineer** from Indonesia. Currently building something great..
 
 <a href="https://github-contributions-widget.oxwazz.com/fransdhinta">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-contributions-widget.oxwazz.com/fransdhinta?refresh-cache=1733656152275">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-contributions-widget.oxwazz.com/fransdhinta?refresh-cache=1733656152275">
-    <img alt="oxwazz github open-sourcew contributions" src="https://github-contributions-widget.oxwazz.com/fransdhinta?refresh-cache=1733656152275"  width="55%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-contributions-widget.oxwazz.com/fransdhinta">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-contributions-widget.oxwazz.com/fransdhinta">
+    <img alt="oxwazz github open-sourcew contributions" src="https://github-contributions-widget.oxwazz.com/fransdhinta"  width="55%">
   </picture>
 </a>
 
