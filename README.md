@@ -28,32 +28,6 @@ I'm a **Software Engineer** from Indonesia. Currently building something great..
 
 ###
 ![LeetCode Stats](https://leetcard.jacoblin.cool/fransdhinta?theme=unicorn&font=Alef)
-<div align="left">
-  <a href="https://www.hackerrank.com/certificates/iframe/8361d047e252" target="_blank">
-    <img src="https://lh3.googleusercontent.com/d/1vkZ2E4jC_goWx1wOsW_OyhXvNeBi4OEM=w1000?authuser=1/view" height="40" alt="javascript logo"  />
-  </a>
-  <img width="15" />
-
-  <a href="https://www.hackerrank.com/certificates/iframe/c6fc6ae344da" target="_blank">
-    <img src="https://lh3.googleusercontent.com/d/1tuw5Hlinz5TyVOtIDsvJD70DdbGqKlRQ=w1000?authuser=1/view" height="40" alt="javascript logo"  />
-  </a>
-  <img width="15" />
-  
-  <a href="https://www.hackerrank.com/certificates/iframe/1374baf33f89" target="_blank">
-    <img src="https://lh3.googleusercontent.com/d/1qoOBUWVqo4iZi2ivigJahQq4gNK-9v0i=w1000?authuser=1/view" height="40" alt="javascript logo"  />
-  </a>
-  <img width="15" />
-  
-  <a href="https://www.hackerrank.com/certificates/iframe/0549db99dae2" target="_blank">
-    <img src="https://lh3.googleusercontent.com/d/1V2S_Xp0ICnQvVF1JKbw2kFfO6H_7c0IE=w1000?authuser=1/view" height="40" alt="javascript logo"  />
-  </a>
-  <img width="15" />
-  
-  <a href="https://www.hackerrank.com/certificates/iframe/043e63da249d" target="_blank">
-    <img src="https://lh3.googleusercontent.com/d/1LpqKzr-d8Msviq05BtkaflthYlOv3wsN=w1000?authuser=1/view" height="40" alt="javascript logo"  />
-  </a>
-  <img width="15" />
-</div>
 
 ###
 
